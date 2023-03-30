@@ -57769,7 +57769,7 @@ A.df(new A.bo(s,r,"flutter web plugins",p,null,!1))}},
 $S:10}
 A.Vo.prototype={}
 A.BL.prototype={
-X(a){return new A.rD(B.CM,"Flutter Demo",A.adl(null,B.fn,null),!1,null)}}
+X(a){return new A.rD(B.CM,"Waleed Arshad",A.adl(null,B.fn,null),!1,null)}}
 A.rQ.prototype={
 ao(){return new A.HV(B.m)}}
 A.HV.prototype={
